@@ -1,7 +1,6 @@
-const URL_FAVORITES = 'https://travel-favorites-abcd.onrender.com/favorites';
-const URL_WISHLIST = 'https://travel-wishlist-efgh.onrender.com/wishlist';
-const URL_VISITED = 'https://travel-visited-ijkl.onrender.com/visited';
-
+const URL_FAVORITES = 'https://travel-favorites.onrender.com/favorites';
+const URL_WISHLIST = 'https://service-wishlist.onrender.com/wishlist';
+const URL_VISITED = 'https://travel-visited.onrender.com/visited';
 let currentCountry = "";
 
 async function searchCountry() {
