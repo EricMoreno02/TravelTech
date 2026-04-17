@@ -1,7 +1,6 @@
-// Aquestes URLs s'han de canviar per les públiques un cop desplegat!
-const URL_FAVORITES = 'http://localhost:3001/favorites';
-const URL_WISHLIST = 'http://localhost:3002/wishlist';
-const URL_VISITED = 'http://localhost:3003/visited';
+const URL_FAVORITES = 'https://travel-favorites-abcd.onrender.com/favorites';
+const URL_WISHLIST = 'https://travel-wishlist-efgh.onrender.com/wishlist';
+const URL_VISITED = 'https://travel-visited-ijkl.onrender.com/visited';
 
 let currentCountry = "";
 
